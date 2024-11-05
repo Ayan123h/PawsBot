@@ -11,7 +11,7 @@ class Settings(BaseSettings):
     START_DELAY: list[int] = [5, 25]
     AUTO_TASK: bool = True
     JOIN_TG_CHANNELS: bool = False
-    REF_ID: str = 'idqtVYZG'
+    REF_ID: str = 'iFAXjw5j'
     DISABLED_TASKS: list[str] = ['boost']
     CONNECT_TON_WALLET: bool = False
     DISCONNECT_TON_WALLET: bool = False
